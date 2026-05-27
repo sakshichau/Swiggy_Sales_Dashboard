@@ -1,4 +1,5 @@
- 📊 SWIGGY SALES DASHBOARD
+** 📊 SWIGGY SALES DASHBOARD **
+ 
  📌 Project Overview
 Comprehensive sales analysis project built in Excel to evaluate Swiggy’s performance data. The dashboard highlights KPIs, revenue trends, and customer insights, enabling data‑driven decision making.
 
